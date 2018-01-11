@@ -10,6 +10,12 @@ Pagination plugin for [Mongoose](http://mongoosejs.com)
 ## Installation
 
 ```sh
+npm install cznico/mongoose-paginated
+```
+
+Original project can be installed
+
+```sh
 npm install mongoose-paginate
 ```
 
